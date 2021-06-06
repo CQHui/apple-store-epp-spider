@@ -2,7 +2,7 @@
 
 员工购买计划 (“计划”) 是 Apple Inc. (“Apple”) 提供的优惠，它适用于参与该计划的公司和其他组织 (“雇主”) 的在职员工、劳务合同工、会员及家庭成员。本计划旨在供个人自用或朋友和家人使用。
 
-###出发点
+### 出发点
 
 因为之前想找自己公司的Apple store EPP网址购买apple产品，可是无奈不清楚具体domain，在苹果官网也无法查询，于是乎，写了个脚本顺着爬了下。
 
@@ -12,7 +12,7 @@
 
 特意查看了下Apple的[robots.txt](https://www.apple.com.cn/robots.txt), 未发现`/cn_epp-discounted*` 是不被允许的。本文结果仅供参考，禁止匿名转载，禁止商业用途。如有侵权，立即删除。
 
-###App store EPP的网址
+### App store EPP的网址
 
 ```
 Disney 上海国际主题乐园有限公司 EPP:https://www.apple.com.cn/cn_epp-discounted_803136/shop/open/salespolicies/program_agreement
